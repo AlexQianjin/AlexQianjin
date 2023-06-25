@@ -7,7 +7,7 @@ Developer, Tennis Player, Cyclist
 I've been working as a developer for 13 years. I'm used to coding with C#. Currently, I'm focusing on javascript and react.
 
 * 🌍  I'm based in Wuhan, China
-* 🖥️  See my portfolio at [https://www.alexqin.top](http://https://www.alexqin.top)
+* 🖥️  See my portfolio at [https://www.alexqin.top](https://www.alexqin.top)
 * ✉️  You can contact me at [qianjin.qin@gmail.com](mailto:qianjin.qin@gmail.com)
 * 🚀  I'm currently working on [a Proteomics related web product](http://no links)
 * 🧠  I'm learning React, Astro
