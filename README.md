@@ -10,7 +10,7 @@ I've been working as a developer for 13 years. I'm used to coding with C#. Curre
 * 🖥️  See my portfolio at [https://www.alexqin.top](https://www.alexqin.top)
 * ✉️  You can contact me at [qianjin.qin@gmail.com](mailto:qianjin.qin@gmail.com)
 * 🚀  I'm currently working on [a Proteomics related web product](http://no links)
-* 🧠  I'm learning React, Astro
+* 🧠  I'm learning React, Next, Astro
 
 ### Skills
 
