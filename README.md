@@ -8,7 +8,7 @@ I'm a full-stack developer. Currently, I'm focusing on TypeScript, React, Python
 
 * 📍 I'm based in Wuhan, China 
 * 🌐 See my portfolio at [https://www.alexqin.top](https://www.alexqin.top)
-* 📝 See my portfolio at [https://www.alexqin.top](https://www.alexqin.top)
+* 📝 See my resume at [https://www.alexqin.top](https://www.alexqin.top/resume-en)
 * ✉️  You can contact me at [qianjin.qin@gmail.com](mailto:qianjin.qin@gmail.com)
 * 🚀  I'm looking for a full-time job.
 * 🧠  I'm learning AI Agent
